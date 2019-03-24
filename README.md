@@ -5,6 +5,8 @@ Presentations, documents and other files released from the team at Hacker House.
 | Filename | Description |
 | :---: | :--- |
 |*apple_A6_decap.zip*| Apple A6 CPU de-capped high resolution photos |
+|*CryptoPartyLondon-DogAteMyCryptoKeys.ppt* | Dog Ate My Crypto Keys (cryptoparty LDN) |
+|*DogAteMyCryptoKeysv2.pdf* | Dog Ate My Crypto Keys (v2) |
 |*EquationGroupUNIX.xlsx*| Equation Group UNIX tools identified from leaks |
 |*HackerHouse_A_Blockchain_Quest.pdf*| Blockchain & Cryptocurrency presentation |
 |*Hacking_Embedded_Devices-HackerFantastic-uncon18.pptx*| Embedded Device Hacking uncon18 |
