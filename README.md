@@ -12,6 +12,7 @@ Presentations, documents and other files released from the team at Hacker House.
 |*Hacking_Embedded_Devices-HackerFantastic-uncon18.pptx*| Embedded Device Hacking uncon18 |
 |*learn_morse.pdf*| Morse code cheat sheet for amateur radio |
 |*Pyongyang_2407_HackerHouse_dc526.pdf*| Pyongyang 2407 Android ROM hacking (dc526 meetup) |
+|*Snoopcon_SpacePony.pdf* | Space Pony - riding exploits into orbit (snoopcon) |
 |*tcp_blind_scanning_via_mIRC.txt*| TCP/IP blind port scanning attack |
 |*VAstacksmash.txt*| Virtual Address randomization exploitation paper |
 
