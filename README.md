@@ -9,6 +9,9 @@ Presentations, documents and other files released from the team at Hacker House.
 |*DogAteMyCryptoKeysv2.pdf* | Dog Ate My Crypto Keys (v2) |
 |*EquationGroupUNIX.xlsx*| Equation Group UNIX tools identified from leaks |
 |*HackerHouse_A_Blockchain_Quest.pdf*| Blockchain & Cryptocurrency presentation |
+|*HackerHouse_iOS_IdentificationChart_A0.pdf* | Apple iDevice identification poster (print A0 size) |
+|*HackerHouse_iOS_IdentificationChart_A1.pdf* | Apple iDevice identification poster (print A1 size) |
+|*HackerHouse_iOS_IdentificationChart_WebGraphic.pdf* | Apple iDevice identification poster (web graphic) | 
 |*Hacking_Embedded_Devices-HackerFantastic-uncon18.pptx*| Embedded Device Hacking uncon18 |
 |*learn_morse.pdf*| Morse code cheat sheet for amateur radio |
 |*Pyongyang_2407_HackerHouse_dc526.pdf*| Pyongyang 2407 Android ROM hacking (dc526 meetup) |
